@@ -18,10 +18,15 @@ Desafio da plataforma de ensino da Alura para resolçução de 7 desafios de ló
 
 * Desafio 1:
 
-Verificar o retorno de comparações em JavaScript para evitar erros de comparação entre valores iguais com tipos diferentes. (Ex.: 1 == '1')
+Verificar o retorno de comparações em JavaScript para evitar erros de comparação entre valores iguais com tipos diferentes. (Ex.: 1 == '1').
+
+* Desafio 2:
+
+Criar um pequeno formulário para interação com o usuário. Utilizado o Readline do node!!!
 
 # Tecnologias utilizadas:
 * JavaScript;
+* Node;
 * Visual Studio Code;
 
 # Autor:
