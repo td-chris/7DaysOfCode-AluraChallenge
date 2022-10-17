@@ -24,6 +24,10 @@ Verificar o retorno de comparações em JavaScript para evitar erros de compara�
 
 Criar um pequeno formulário para interação com o usuário. Utilizado o Readline do node!!!
 
+* Desafio 3:
+
+Criar um jogo de escolha de carreira! Rodando script na página index.html.
+
 # Tecnologias utilizadas:
 * JavaScript;
 * Node;
