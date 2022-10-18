@@ -32,6 +32,10 @@ Criar um jogo de escolha de carreira! Rodando script na página index.html.
 
 Criar um jogo de adivinhar um número de 0 a 10 contra o computador! Rodando script na página index.html.
 
+* Desafio 5:
+
+Criar um organizador de lista de compras! Rodando script na página index.html.
+
 # Tecnologias utilizadas:
 * JavaScript;
 * Node;
