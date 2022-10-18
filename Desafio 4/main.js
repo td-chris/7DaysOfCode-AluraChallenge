@@ -24,11 +24,15 @@ while(playGame == 1){
 
     if(playerGuess == computerNumber){
       alert(`Você acertou! O número que o computador escolheu era: ${computerNumber}`);
-      playerTries = 4;
+      playerTries = 5;
     }else{
       alert("Você errou! Tente novamente!");
       playerTries++;
     }
+  }
+
+  if(playerTries == 4){
+    alert(`Você já tentou 3 vezes! O número do computador era: ${computerNumber}`)
   }
 
   let playAgain = prompt("Deseja jogar novamente? Digite 1 para Sim ou 2 para Não");
