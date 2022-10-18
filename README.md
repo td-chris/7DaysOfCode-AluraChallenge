@@ -28,6 +28,10 @@ Criar um pequeno formulário para interação com o usuário. Utilizado o Readli
 
 Criar um jogo de escolha de carreira! Rodando script na página index.html.
 
+* Desafio 4:
+
+Criar um jogo de adivinhar um número de 0 a 10 contra o computador! Rodando script na página index.html.
+
 # Tecnologias utilizadas:
 * JavaScript;
 * Node;
