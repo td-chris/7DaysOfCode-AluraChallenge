@@ -36,6 +36,14 @@ Criar um jogo de adivinhar um número de 0 a 10 contra o computador! Rodando scr
 
 Criar um organizador de lista de compras! Rodando script na página index.html.
 
+* Desafio 6:
+
+Aprimorar o organizador de lista de compras para retirar itens da lista! Rodando script na página index.html.
+
+* Desafio 7:
+
+Calculadora em JavaScript utilizando de funções! Rodando script na página index.html.
+
 # Tecnologias utilizadas:
 * JavaScript;
 * Node;
